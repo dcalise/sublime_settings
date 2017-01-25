@@ -1,0 +1,46 @@
+{
+	"binary_file_patterns":
+	[
+		"build/*",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/Colorsublime - Themes/custom.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"predawn_findreplace_small": true,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_medium": true,
+	"scroll_past_end": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
