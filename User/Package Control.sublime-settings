@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"Better CoffeeScript",
+		"Colorsublime",
+		"Dictionaries",
+		"Dotfiles Syntax Highlighting",
+		"EasyDiff",
+		"Emmet",
+		"ERB Autocomplete",
+		"GoldenRatio",
+		"Jade",
+		"Java Velocity",
+		"JsFormat",
+		"LoremIpsum",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Pug",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeERB",
+		"Text Pastry",
+		"Theme - Asphalt",
+		"TrailingSpaces",
+		"WakaTime",
+		"WordCount"
+	]
+}
